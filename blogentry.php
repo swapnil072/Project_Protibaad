@@ -8,7 +8,7 @@ if (!isset($_SESSION['username'])) {
 
 ?>
 
-
+<!-- //comment -->
 <!DOCTYPE html>
 <html lang="en">
 
