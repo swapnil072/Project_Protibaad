@@ -50,7 +50,7 @@ if (isset($_POST['submit'])) {
 				<input type="password" placeholder="Password" name="password" value="<?php echo $_POST['password']; ?>" required>
 			</div>
 			<div class="input-group">
-				<button name="submit" class="btn">Login</button>
+				<button name="submit" class="btn">LOgin</button>
 			</div>
 			<p class="login-register-text">Don't have an account? <a href="register.php">Register Here</a>.</p>
 			<p class="login-register-text">Admin Page <a href="adminlog.php">Log in </a>.</p>
