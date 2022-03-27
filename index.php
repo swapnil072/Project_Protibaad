@@ -39,7 +39,7 @@ if (isset($_POST['submit'])) {
 
 	<title>Protibaad</title>
 </head>
-<body class="img" style="background-image: url('image/bg1.jpg');">
+<body style="background-image: url('image/bg1.jpg');">
 	<div class="container">
 		<form action="" method="POST" class="login-email">
 			<p class="login-text" style="font-size: 2rem; font-weight: 800;">Login</p>
