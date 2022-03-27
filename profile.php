@@ -2,6 +2,8 @@
 session_start();
 include 'config.php';
 ?>
+//head start
+
 <!DOCTYPE html>
 <html lang="en">
 
